@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 855px;
+	margin: auto;
+	background: ivory;
+	font-size: 100%;
+	font-family: sans-serif;
+}
+
+header {
+	overflow: auto;
+	border-bottom: 1px solid darkslategray;
+}
+
+h1 {
+	float: left;
+}
+
+header p {
+  float: right;
+  width: 570px;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+main {
+	overflow: auto;
+	padding: 30px 0;
+	border-bottom: 1px solid darkslategray;
+}
+
+footer {
+	font-size: smaller;
+	margin-top: 5px;
+	clear: both;
+}
+
+exercise2 {
+	background: yellow;
+}
